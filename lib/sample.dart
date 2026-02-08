@@ -7,7 +7,7 @@ void main() {
         backgroundColor: Colors.white,
         body: Center(
           child: Text(
-            'this is edit for branch B',
+            'hello',
             style: TextStyle(
               fontSize: 48,
               fontWeight: FontWeight.bold,
