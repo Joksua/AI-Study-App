@@ -7,7 +7,7 @@ void main() {
         backgroundColor: Colors.white,
         body: Center(
           child: Text(
-            'hello world!',
+            'this is edit is for A',
             style: TextStyle(
               fontSize: 48,
               fontWeight: FontWeight.bold,

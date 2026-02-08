@@ -1,0 +1,17 @@
+[33mcommit 6b7d2c24a4d99460b22d0b1ffbd05bd1f4ed7548[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbranchA[m[33m)[m
+Author: JoshLJW <laijoshuajw01@gmail.com>
+Date:   Sun Feb 8 19:36:33 2026 +0800
+
+    i just edited branchA
+
+[33mcommit dc8952a996eba4b6865e1ee8078fc70fb5a1224a[m[33m ([m[1;32medit-1[m[33m)[m
+Author: JoshLJW <laijoshuajw01@gmail.com>
+Date:   Sun Feb 8 19:27:30 2026 +0800
+
+    edited branch 1
+
+[33mcommit 684377c6d5342c3fb2c3e160ab1a3a5a252fede9[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: JoshLJW <laijoshuajw01@gmail.com>
+Date:   Sun Feb 8 19:17:07 2026 +0800
+
+    initial commit
